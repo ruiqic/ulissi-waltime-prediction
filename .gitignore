@@ -1,0 +1,5 @@
+dask-worker-space/
+__pycache__/
+*.ipynb*
+data_dict_fizzled.pkl
+data_dict.pkl
