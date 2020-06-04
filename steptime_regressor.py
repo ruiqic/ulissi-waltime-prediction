@@ -1,4 +1,3 @@
-import pickle
 from extract_features_helpers import get_features_noneighbors
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.preprocessing import StandardScaler
